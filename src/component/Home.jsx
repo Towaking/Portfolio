@@ -4,7 +4,7 @@ export const Home = () => {
     return (
         <div className="relative " id='Home'>
             <div
-                className="w-full h-screen  bg-cover bg-center flex items-center justify-center"
+                className="w-full md:h-screen h-[75dvh] bg-cover bg-center flex items-center justify-center"
                 style={{
                     backgroundImage: `url(${imagesPath[0]})`,
                 }}

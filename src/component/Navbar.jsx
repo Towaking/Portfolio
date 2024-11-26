@@ -13,7 +13,7 @@ export const Navbar = () => {
         <header
             className='bg-black/50 w-screen fixed top-0 left-0 right-0 z-40 text-white  flex items-center md:justify-around justify-between  p-5'>
             <a href="#Home" className=' hover:scale-110 z-40'>
-                <img src={imagesPath[2]} alt='yes' className='object-center w-[50px] h-[50px]'/>
+                <img src={imagesPath[1]} alt='yes' className='object-center w-[50px] h-[50px] rounded-full' />
             </a>
             <di></di>
             <di></di>
