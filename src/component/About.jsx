@@ -35,7 +35,7 @@ export const About = () => {
                         skills necessary for roles in the IT and tech sectors.
                         I thrive in environments where I can analyze large datasets,
                         identify trends, and create models that lead to innovative solutions.
-                        Additionally, my experience with coding languages such as Python, Javascript
+                        Additionally, my experience with coding languages such as Python
                         and JavaScript enables me to build scalable applications and optimize
                         existing systems. I have a keen interest in developing AI-driven technologies
                         and using them to create efficiencies and enhance user experiences.
