@@ -15,8 +15,7 @@ export const Navbar = () => {
             <a href="#Home" className=' hover:scale-110 z-40'>
                 <img src={imagesPath[1]} alt='yes' className='object-center w-[50px] h-[50px] rounded-full' />
             </a>
-            <di></di>
-            <di></di>
+
             <div className="md:hidden block HAMBURGER-ICON space-y-2 z-20" onClick={handleOpen}>
                 <span className="block h-0.5 w-8 animate-pulse bg-white"></span>
                 <span className="block h-0.5 w-8 animate-pulse bg-white"></span>
